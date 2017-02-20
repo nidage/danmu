@@ -1,5 +1,5 @@
 		$(document).ready(function() {
-	  var ref = new Wilddog("https://danwu.wilddogio.com/messages");
+	  var ref = new Wilddog("https://cooldanmu.wilddogio.com");
 	  var arr = [];
 	  //把数据提交到野狗云
 	  $(".s_sub").click(function() {
